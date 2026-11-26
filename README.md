@@ -13,10 +13,6 @@
   <a href="mailto:hello@tropo.dev"><img alt="Email" src="https://img.shields.io/badge/hello@tropo.dev-525252?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </p>
 
-<p>
-  <a href="https://tropo.dev" target="_blank" rel="noopener noreferrer"><img alt="WakaTime" src="https://wakatime.com/badge/user/dbec57fa-fd74-4c33-9a3c-be4fbcf06f34.svg" /></a>
-</p>
-
 </div>
 
 <br />
@@ -31,7 +27,7 @@
 
 ## What I use day to day
 
-<p><b>Web</b><br />
+<p><sub><b>WEB</b></sub><br />
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
@@ -43,20 +39,20 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
 </p>
 
-<p><b>Mobile</b><br />
+<p><sub><b>MOBILE</b></sub><br />
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="NativeWind" src="https://img.shields.io/badge/-NativeWind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-<p><b>Animation</b><br />
+<p><sub><b>ANIMATION</b></sub><br />
   <img alt="Motion" src="https://img.shields.io/badge/-Motion-0B0B0C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTguMTggMjUuMzY0IDI1LjM2NCI%2BPHBhdGggZD0iTSA5LjU4NyAwIEwgNC41NyA5IEwgMCA5IEwgMy45MTcgMS45NzIgQyA0LjUyNCAwLjg4MyA2LjAzOSAwIDcuMzAxIDAgWiBNIDIwLjc5NCAyLjI1IEMgMjAuNzk0IDEuMDA3IDIxLjgxNyAwIDIzLjA3OSAwIEMgMjQuMzQxIDAgMjUuMzY0IDEuMDA3IDI1LjM2NCAyLjI1IEMgMjUuMzY0IDMuNDkzIDI0LjM0MSA0LjUgMjMuMDc5IDQuNSBDIDIxLjgxNyA0LjUgMjAuNzk0IDMuNDkzIDIwLjc5NCAyLjI1IFogTSAxMC40NDMgMCBMIDE1LjAxMyAwIEwgOS45OTcgOSBMIDUuNDI3IDkgWiBNIDE1Ljg0MSAwIEwgMjAuNDExIDAgTCAxNi40OTQgNy4wMjggQyAxNS44ODcgOC4xMTcgMTQuMzcyIDkgMTMuMTEgOSBMIDEwLjgyNSA5IFoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B" />
   <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-09B13C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZyBmaWxsPSJ3aGl0ZSI%2BPGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjQuNSIvPjxjaXJjbGUgY3g9Ijc1IiBjeT0iMjUiIHI9IjI0LjUiLz48Y2lyY2xlIGN4PSIyNSIgY3k9Ijc1IiByPSIyNC41Ii8%2BPGNpcmNsZSBjeD0iNzUiIGN5PSI3NSIgcj0iMjQuNSIvPjwvZz48L3N2Zz4%3D" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img alt="Rive" src="https://img.shields.io/badge/-Rive-1D1D1D?style=flat-square&logo=rive&logoColor=white" />
 </p>
 
-<p><b>Backend, data and CMS</b><br />
+<p><sub><b>BACKEND, DATA AND CMS</b></sub><br />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Zod" src="https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
@@ -64,7 +60,7 @@
   <img alt="Resend" src="https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white" />
 </p>
 
-<p><b>Quality and tooling</b><br />
+<p><sub><b>QUALITY AND TOOLING</b></sub><br />
   <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
   <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
