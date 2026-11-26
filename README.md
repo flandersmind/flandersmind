@@ -1,6 +1,6 @@
 <div>
 
-<h1><code>fatal: all my repos are private</code></h1>
+<h1>fatal: all my repos are private</h1>
 
 <p>
   Full stack developer. There's nothing public to look at, so here are the badges.
