@@ -19,7 +19,15 @@
 
 </div>
 
-<img width="250" alt="A man typing on a keyboard, laughing" src="https://media1.giphy.com/media/lCbSAbRrFEfkY/giphy.gif" />
+<br />
+
+<div align="center">
+  <img align="middle" width="250" alt="A man typing on a keyboard, laughing" src="https://media1.giphy.com/media/lCbSAbRrFEfkY/giphy.gif" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="middle" alt="Typing since 2020. Still going." src="https://readme-typing-svg.demolab.com/?lines=Typing+since+2020.;Still+going.&multiline=true&repeat=false&font=Fira+Code&size=24&weight=700&color=8B949E&width=300&height=90&vCenter=true&duration=1&pause=0" />
+</div>
+
+<br />
 
 ## What I use day to day
 
